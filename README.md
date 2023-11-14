@@ -4,8 +4,10 @@
 - rust
 - just
 - hurl
-- lapce
 - jetbrains toolbox
 - obsidian
 - git
 - chrome
+- edge
+- broot
+- gh
