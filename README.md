@@ -11,3 +11,4 @@
 - edge
 - broot
 - gh
+- podman
